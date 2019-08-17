@@ -1,0 +1,26 @@
+.fx {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fx-origin {
+    align-items: center;
+    display: flex;
+}
+
+.fx.fx-column {
+    flex-direction: column;
+}
+
+
+body {
+    margin: 0;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
